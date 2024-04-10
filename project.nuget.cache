@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3KlF+8Xuf92txUgqwbMlC5sN1GiKdWnAU+yP5qGSYgh92ANa6mJyOwgQOSRkgn6ZI2+LYIHx93jKP6/zNri2g==",
+  "success": true,
+  "projectFilePath": "/home/habiba/Documents/Code/revisedchangecalculator/revisedchangecalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/habiba/.nuget/packages/splashkit/1.1.4/splashkit.1.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
